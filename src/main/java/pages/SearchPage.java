@@ -7,7 +7,7 @@ import utils.WaitUtils;
 
 public class SearchPage extends BasePage {
 
-	private final By employeeName = By.xpath("//input[@placeholder='Type for hints...']");
+	private final By employeeName = By.xpath("//label[text()='Employee Name']/parent::div/following-sibling::div//input[@placeholder='Type for hints...']");
 
 	private final By searchButton = By.xpath("//button[@type='submit']");
 
