@@ -1,0 +1,858 @@
+2026-07-12 11:08:23.294
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 11:08:24.163
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 11:08:24.361
+            [main]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 11:08:25.752
+            [main]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 11:08:32.535
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 11:08:34.268
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 11:08:34.485
+            [main]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 11:08:34.618
+            [main]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 11:08:42.840
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 11:08:43.698
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 11:08:43.888
+            [main]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 11:08:44.019
+            [main]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 11:08:52.046
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 11:08:54.619
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 11:08:54.846
+            [main]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 11:08:55.002
+            [main]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 11:09:02.330
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 11:09:04.687
+            [main]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 11:09:04.892
+            [main]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 11:09:05.048
+            [main]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 12:39:42.663
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            BaseTest
+            -
+            ========== Test Started ==========
+2026-07-12 12:39:42.663
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            BaseTest
+            -
+            ========== Test Started ==========
+2026-07-12 12:39:44.408
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Started ==========
+2026-07-12 12:39:49.954
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            BaseTest
+            -
+            Browser Launched : chrome
+2026-07-12 12:39:49.954
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            BaseTest
+            -
+            Browser Launched : chrome
+2026-07-12 12:39:49.954
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Browser Launched : chrome
+2026-07-12 12:39:56.067
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            BaseTest
+            -
+            Navigated to https://opensource-demo.orangehrmlive.com
+2026-07-12 12:39:56.084
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            TestListener
+            -
+            Starting Test : verifyAdminPage
+2026-07-12 12:39:56.123
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Navigated to https://opensource-demo.orangehrmlive.com
+2026-07-12 12:39:56.125
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            TestListener
+            -
+            Starting Test : verifyLogin
+2026-07-12 12:39:56.231
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            BaseTest
+            -
+            Navigated to https://opensource-demo.orangehrmlive.com
+2026-07-12 12:39:56.234
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            TestListener
+            -
+            Starting Test : verifyEmployeeSearch
+2026-07-12 12:39:57.131
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 12:39:57.131
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 12:39:57.132
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 12:39:57.153
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: username
+2026-07-12 12:39:57.156
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: username
+2026-07-12 12:39:57.157
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: username
+2026-07-12 12:39:57.546
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 12:39:57.547
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: password
+2026-07-12 12:39:57.603
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 12:39:57.603
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: password
+2026-07-12 12:39:57.693
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 12:39:57.693
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: password
+2026-07-12 12:39:57.813
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 12:39:57.814
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.cssSelector: button[type='submit']
+2026-07-12 12:39:57.917
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 12:39:57.918
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.cssSelector: button[type='submit']
+2026-07-12 12:39:58.006
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 12:39:58.007
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.cssSelector: button[type='submit']
+2026-07-12 12:39:58.033
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 12:39:58.047
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.xpath: //span[text()='Admin']
+2026-07-12 12:39:58.131
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 12:39:58.132
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.xpath: //span[text()='PIM']
+2026-07-12 12:39:59.406
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 12:39:59.406
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            DashboardPage
+            -
+            Verifying Dashboard
+2026-07-12 12:39:59.457
+            [TestNG-test=Smoke Tests-1]
+            ERROR
+            TestListener
+            -
+            Test Failed : verifyLogin
+2026-07-12 12:39:59.721
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Closing Browser
+2026-07-12 12:40:00.735
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Finished ==========
+2026-07-12 12:40:00.740
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Started ==========
+2026-07-12 12:40:01.521
+            [TestNG-test=Smoke Tests-2]
+            ERROR
+            TestListener
+            -
+            Test Failed : verifyAdminPage
+2026-07-12 12:40:01.959
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.xpath: //input[@placeholder='Type for hints...']
+2026-07-12 12:40:01.985
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            BaseTest
+            -
+            Closing Browser
+2026-07-12 12:40:02.637
+            [TestNG-test=Smoke Tests-2]
+            INFO 
+            BaseTest
+            -
+            ========== Test Finished ==========
+2026-07-12 12:40:03.034
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Browser Launched : chrome
+2026-07-12 12:40:03.363
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.xpath: //button[@type='submit']
+2026-07-12 12:40:03.552
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            TestListener
+            -
+            Test Passed : verifyEmployeeSearch
+2026-07-12 12:40:03.554
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            BaseTest
+            -
+            Closing Browser
+2026-07-12 12:40:03.938
+            [TestNG-test=Smoke Tests-3]
+            INFO 
+            BaseTest
+            -
+            ========== Test Finished ==========
+2026-07-12 12:40:08.000
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Navigated to https://opensource-demo.orangehrmlive.com
+2026-07-12 12:40:08.003
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            TestListener
+            -
+            Starting Test : verifyLogin
+2026-07-12 12:40:08.004
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 12:40:08.004
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: username
+2026-07-12 12:40:08.757
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 12:40:08.757
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: password
+2026-07-12 12:40:08.945
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 12:40:08.945
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.cssSelector: button[type='submit']
+2026-07-12 12:40:09.080
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 12:40:09.080
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            DashboardPage
+            -
+            Verifying Dashboard
+2026-07-12 12:40:10.301
+            [TestNG-test=Smoke Tests-1]
+            ERROR
+            TestListener
+            -
+            Test Failed : verifyLogin
+2026-07-12 12:40:10.460
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Closing Browser
+2026-07-12 12:40:10.807
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Finished ==========
+2026-07-12 12:40:10.808
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Started ==========
+2026-07-12 12:40:12.029
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Browser Launched : chrome
+2026-07-12 12:40:16.946
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Navigated to https://opensource-demo.orangehrmlive.com
+2026-07-12 12:40:16.948
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            TestListener
+            -
+            Starting Test : verifyLogin
+2026-07-12 12:40:16.949
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 12:40:16.949
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: username
+2026-07-12 12:40:17.697
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 12:40:17.697
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: password
+2026-07-12 12:40:17.864
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 12:40:17.864
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.cssSelector: button[type='submit']
+2026-07-12 12:40:18.002
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 12:40:18.002
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            DashboardPage
+            -
+            Verifying Dashboard
+2026-07-12 12:40:18.867
+            [TestNG-test=Smoke Tests-1]
+            ERROR
+            TestListener
+            -
+            Test Failed : verifyLogin
+2026-07-12 12:40:19.026
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Closing Browser
+2026-07-12 12:40:19.406
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Finished ==========
+2026-07-12 12:40:19.409
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Started ==========
+2026-07-12 12:40:20.630
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Browser Launched : chrome
+2026-07-12 12:40:25.807
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Navigated to https://opensource-demo.orangehrmlive.com
+2026-07-12 12:40:25.810
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            TestListener
+            -
+            Starting Test : verifyLogin
+2026-07-12 12:40:25.811
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 12:40:25.811
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: username
+2026-07-12 12:40:26.524
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 12:40:26.524
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: password
+2026-07-12 12:40:26.729
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 12:40:26.730
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.cssSelector: button[type='submit']
+2026-07-12 12:40:26.862
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 12:40:26.862
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            DashboardPage
+            -
+            Verifying Dashboard
+2026-07-12 12:40:28.015
+            [TestNG-test=Smoke Tests-1]
+            ERROR
+            TestListener
+            -
+            Test Failed : verifyLogin
+2026-07-12 12:40:28.191
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Closing Browser
+2026-07-12 12:40:28.561
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Finished ==========
+2026-07-12 12:40:28.562
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Started ==========
+2026-07-12 12:40:29.674
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Browser Launched : chrome
+2026-07-12 12:40:34.643
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Navigated to https://opensource-demo.orangehrmlive.com
+2026-07-12 12:40:34.645
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            TestListener
+            -
+            Starting Test : verifyLogin
+2026-07-12 12:40:34.646
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 12:40:34.646
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: username
+2026-07-12 12:40:35.387
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 12:40:35.387
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: password
+2026-07-12 12:40:35.570
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 12:40:35.571
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.cssSelector: button[type='submit']
+2026-07-12 12:40:35.721
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 12:40:35.721
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            DashboardPage
+            -
+            Verifying Dashboard
+2026-07-12 12:40:36.810
+            [TestNG-test=Smoke Tests-1]
+            ERROR
+            TestListener
+            -
+            Test Failed : verifyLogin
+2026-07-12 12:40:36.959
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Closing Browser
+2026-07-12 12:40:37.282
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Finished ==========
+2026-07-12 12:40:37.284
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Started ==========
+2026-07-12 12:40:38.402
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Browser Launched : chrome
+2026-07-12 12:40:43.452
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Navigated to https://opensource-demo.orangehrmlive.com
+2026-07-12 12:40:43.454
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            TestListener
+            -
+            Starting Test : verifySuccessfulLogin
+2026-07-12 12:40:43.455
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Username
+2026-07-12 12:40:43.455
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: username
+2026-07-12 12:40:44.206
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Entering Password
+2026-07-12 12:40:44.207
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element visibility : By.name: password
+2026-07-12 12:40:44.381
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Clicking Login
+2026-07-12 12:40:44.381
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            WaitUtils
+            -
+            Waiting for element Clickablility : By.cssSelector: button[type='submit']
+2026-07-12 12:40:44.528
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            LoginPage
+            -
+            Login Completed
+2026-07-12 12:40:44.528
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            DashboardPage
+            -
+            Verifying Dashboard
+2026-07-12 12:40:46.022
+            [TestNG-test=Smoke Tests-1]
+            ERROR
+            TestListener
+            -
+            Test Failed : verifySuccessfulLogin
+2026-07-12 12:40:46.165
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            Closing Browser
+2026-07-12 12:40:46.479
+            [TestNG-test=Smoke Tests-1]
+            INFO 
+            BaseTest
+            -
+            ========== Test Finished ==========
+2026-07-12 12:40:46.480
+            [main]
+            INFO 
+            TestListener
+            -
+            Execution Completed
