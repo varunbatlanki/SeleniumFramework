@@ -7,6 +7,7 @@ import org.apache.logging.log4j.Logger;
 import base.BasePage;
 import components.HeaderComponent;
 import components.LeftMenuComponent;
+import utils.WaitUtils;
 
 public class DashboardPage extends BasePage {
 
@@ -25,6 +26,8 @@ public class DashboardPage extends BasePage {
 	 */
 
 	public boolean isDashboardDisplayed() {
+
+		WaitUtils.waitForVisibility(dashboardTitle);
 
 		logger.info("Verifying Dashboard");
 		return isDisplayed(dashboardTitle);
