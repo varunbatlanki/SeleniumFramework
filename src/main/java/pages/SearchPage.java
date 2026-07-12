@@ -13,7 +13,7 @@ public class SearchPage extends BasePage {
 
 	public void searchEmployee(String employee) {
 
-		WaitUtils.waitForClickable(employeeName);
+		WaitUtils.waitForVisibility(employeeName);
 		type(employeeName, employee);
 
 		click(searchButton);
