@@ -3,6 +3,7 @@ package pages;
 import org.openqa.selenium.By;
 
 import base.BasePage;
+import utils.WaitUtils;
 
 public class AdminPage extends BasePage {
 
@@ -10,6 +11,7 @@ public class AdminPage extends BasePage {
 
 	public boolean isAdminPageDisplayed() {
 
+		WaitUtils.waitForVisibility(adminHeader);
 		return isDisplayed(adminHeader);
 
 	}

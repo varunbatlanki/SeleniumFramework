@@ -56,6 +56,7 @@ public class DashboardPage extends BasePage {
 
 	public AdminPage goToAdmin() {
 
+	
 		menu.openMenu("Admin");
 
 		return new AdminPage();
