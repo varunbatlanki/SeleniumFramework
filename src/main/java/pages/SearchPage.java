@@ -3,6 +3,7 @@ package pages;
 import org.openqa.selenium.By;
 
 import base.BasePage;
+import utils.WaitUtils;
 
 public class SearchPage extends BasePage {
 
@@ -12,6 +13,7 @@ public class SearchPage extends BasePage {
 
 	public void searchEmployee(String employee) {
 
+		WaitUtils.waitForVisibility(employeeName);
 		type(employeeName, employee);
 
 		click(searchButton);
