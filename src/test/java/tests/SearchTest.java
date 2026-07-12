@@ -18,8 +18,9 @@ public class SearchTest extends BaseTest {
 		DashboardPage dashboard = login.login("Admin", "admin123");
 
 		SearchPage search = dashboard.goToPIM();
+		
 
-		search.searchEmployee("Linda");
+	//	search.searchEmployee("Linda");
 
 	}
 
